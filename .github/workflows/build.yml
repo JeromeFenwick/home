@@ -7,7 +7,7 @@ on:
     branches:
       - dev
       - master
-
+      
 jobs:
   release:
     name: Build Website
